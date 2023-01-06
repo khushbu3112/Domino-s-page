@@ -1,0 +1,43 @@
+.b {
+    width: 148px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #f3223b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+}
+
+td {
+    padding-top: 1px;
+}
+
+.sub {
+    padding-left: 100px;
+    padding-top: 5px;
+}
+
+A {
+    text-decoration: none;
+    font-style: arial;
+}
+
+wrapper .header {
+    padding: 0.5em 0.5em 1em 1.5em;
+    display: flex;
+    background: white;
+    align-items: center;
+}
+
+#HOME {
+    width: 1500px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: rgb(223, 227, 227);
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    cursor: pointer;
+}
